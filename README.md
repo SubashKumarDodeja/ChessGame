@@ -1,2 +1,2 @@
 # ChessGame
- A two player chees game
+ Two player chess game
